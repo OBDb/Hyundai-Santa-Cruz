@@ -1,10 +1,14 @@
-command_id: 7E0.7E8.22E021
+command_id: 7E0.22E021
 test_cases:
 - expected_values:
+    HYUNDAI_TB_PRES: 0
     HYUNDAI_TURBO_BOOST: -10
     HYUNDAI_WG_DUTY: 0
+    HYUNDAI_WG_POS: 0
     HYUNDAI_WG_POSITION: 0
     HYUNDAI_WG_SETPOINT: 0
+    HYUNDAI_WG_SP: 0
+    HYUNDAI_WG_V: 0
     HYUNDAI_WG_VOLTAGE: 0
   response: |-
     7E8104562E021000000
