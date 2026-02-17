@@ -11,6 +11,11 @@ test_cases:
     778100B62BC06B40000
     778210025000000AAAA
 - expected_values:
+    HYUNDAI_BRAKE_LIGHT: 41
+  response: |-
+    778100B62BC06B40000
+    778210029000000AAAA
+- expected_values:
     HYUNDAI_BRAKE_LIGHT: 45
   response: |-
     778100B62BC06B40000
