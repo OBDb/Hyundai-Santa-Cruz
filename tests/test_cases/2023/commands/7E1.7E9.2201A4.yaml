@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 12
+    HYUNDAI_GEAR_CUR: 0
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -18,7 +18,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 14
+    HYUNDAI_GEAR_CUR: 0
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -33,7 +33,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 7
+    HYUNDAI_GEAR_CUR: 1
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -48,7 +48,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 13
+    HYUNDAI_GEAR_CUR: 0
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -63,7 +63,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 9
+    HYUNDAI_GEAR_CUR: 3
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -78,7 +78,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 9
+    HYUNDAI_GEAR_CUR: 2
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -108,7 +108,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 8
+    HYUNDAI_GEAR_CUR: 9
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -123,7 +123,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 9
+    HYUNDAI_GEAR_CUR: 1
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -138,7 +138,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 12
+    HYUNDAI_GEAR_CUR: 2
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -153,7 +153,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 7
+    HYUNDAI_GEAR_CUR: 3
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -168,7 +168,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 2
+    HYUNDAI_GEAR_CUR: 9
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -183,7 +183,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 13
+    HYUNDAI_GEAR_CUR: 2
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -198,7 +198,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 7
+    HYUNDAI_GEAR_CUR: 0
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -213,7 +213,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 7
+    HYUNDAI_GEAR_CUR: 5
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -228,7 +228,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 2
+    HYUNDAI_GEAR_CUR: 6
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -243,7 +243,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 5
+    HYUNDAI_GEAR_CUR: 2
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -258,7 +258,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 14
+    HYUNDAI_GEAR_CUR: 1
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -273,7 +273,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 0
+    HYUNDAI_GEAR_CUR: 6
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -288,7 +288,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 7
+    HYUNDAI_GEAR_CUR: 4
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -303,7 +303,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 8
+    HYUNDAI_GEAR_CUR: 1
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -318,7 +318,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 13
+    HYUNDAI_GEAR_CUR: 8
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -333,7 +333,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 5
+    HYUNDAI_GEAR_CUR: 8
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -348,7 +348,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 14
+    HYUNDAI_GEAR_CUR: 5
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -363,7 +363,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 14
+    HYUNDAI_GEAR_CUR: 5
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
@@ -378,7 +378,7 @@ test_cases:
 - expected_values:
     HYUNDAI_CLUTCH_1_T: 300
     HYUNDAI_CLUTCH_2_T: 300
-    HYUNDAI_GEAR_CUR: 6
+    HYUNDAI_GEAR_CUR: 3
     HYUNDAI_GEAR_NXT: 0
   response: |-
     7E910396201A4FFFFFF
