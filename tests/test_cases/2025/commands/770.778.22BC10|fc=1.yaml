@@ -10,3 +10,8 @@ test_cases:
   response: |-
     778100962BC10FFE000
     77821000006AAAAAAAA
+- expected_values:
+    HYUNDAI_LIGHTS_CODE: 4
+  response: |-
+    778100962BC10FFE000
+    77821004007AAAAAAAA
