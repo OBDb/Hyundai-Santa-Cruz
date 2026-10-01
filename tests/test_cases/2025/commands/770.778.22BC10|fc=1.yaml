@@ -1,17 +1,17 @@
 command_id: 770.778.22BC10|fc=1
 test_cases:
 - expected_values:
-    HYUNDAI_LIGHTS_CODE: 0
+    SANTA_CRUZ_LIGHTS_CODE: 0
   response: |-
     778100962BC10FFE000
     77821000000AAAAAAAA
 - expected_values:
-    HYUNDAI_LIGHTS_CODE: 0
+    SANTA_CRUZ_LIGHTS_CODE: 0
   response: |-
     778100962BC10FFE000
     77821000006AAAAAAAA
 - expected_values:
-    HYUNDAI_LIGHTS_CODE: 4
+    SANTA_CRUZ_LIGHTS_CODE: 4
   response: |-
     778100962BC10FFE000
     77821004007AAAAAAAA
